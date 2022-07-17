@@ -1,8 +1,8 @@
 # Azariah's README.md Generator
 ## License
-Please see https://www.apache.org/licenses/LICENSE-2.0.html to get detailed information for this license
+Please see https://www.gnu.org/licenses/gpl-3.0.en.html to get detailed information for this license
 
-![License Badge](https://shields.io/badge/license-Apache-green)
+![License Badge](https://shields.io/badge/license-GPL-green)
 ## Table of Contents
 1. [Description](#description)
 2. [Installation](#installation)
@@ -13,15 +13,15 @@ Please see https://www.apache.org/licenses/LICENSE-2.0.html to get detailed info
 7. [Questions](#questions)
 
 ## Description
-This is a user friendly application, used to create a proffesional readme.
+It creates a readme based on user input.
 ## Installation
-Please refer to the user manual.
+https://drive.google.com/file/d/1f2CyAX_lhY3Pc1Zp3tSnxPYPNsY5wupu/view?usp=sharing
 ## Usage
-Please refer to walkthrough video.
+Refer to walkthrough video.
 ## Contributors
 Azariah Garrido
 ## Tests
-Please refer to user manual.
+Refer to walkthrough video.
 ## Questions
 Click [HERE](https://github.com/azariahgarrido) to see my Github
 My email is azariahdanielgarrido@gmail.com for any additional questions.
